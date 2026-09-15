@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/mohamedsaied552">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Mohamed%20Saied" alt="Hello! I&#39;m Mohamed" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Mohamed" alt="Hello! I&#39;m Mohamed" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=880&height=44&lines=Software%20Engineer%20%7C%20Flutter%20Developer;Building%20mobile%20apps%2C%20web%20systems%20%26%20real-world%20solutions" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=880&height=44&lines=Software%20Engineer%20%7C%20Flutter%20Developer;Building%20mobile%20apps%2C%20web%20systems%20%26%20real-world%20solutions" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
